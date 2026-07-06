@@ -34,7 +34,7 @@ Total coverage: **218 football teams**.
 | 9 | bg | Bulgaria | <img src="bg.png" width="64" alt="bg"> |
 | 10 | hr | Croatia | <img src="hr.png" width="64" alt="hr"> |
 | 11 | cy | Cyprus | <img src="cy.png" width="64" alt="cy"> |
-| 12 | cz | Czech Republic, Czechia | <img src="cz.png" width="64" alt="cz"> |
+| 12 | cz | Czech Republic<br>Czechia | <img src="cz.png" width="64" alt="cz"> |
 | 13 | dk | Denmark | <img src="dk.png" width="64" alt="dk"> |
 | 14 | gb-eng | England | <img src="gb-eng.png" width="64" alt="gb-eng"> |
 | 15 | ee | Estonia | <img src="ee.png" width="64" alt="ee"> |
@@ -64,7 +64,7 @@ Total coverage: **218 football teams**.
 | 39 | no | Norway | <img src="no.png" width="64" alt="no"> |
 | 40 | pl | Poland | <img src="pl.png" width="64" alt="pl"> |
 | 41 | pt | Portugal | <img src="pt.png" width="64" alt="pt"> |
-| 42 | ie | Republic of Ireland, Ireland | <img src="ie.png" width="64" alt="ie"> |
+| 42 | ie | Republic of Ireland<br>Ireland | <img src="ie.png" width="64" alt="ie"> |
 | 43 | ro | Romania | <img src="ro.png" width="64" alt="ro"> |
 | 44 | ru | Russia | <img src="ru.png" width="64" alt="ru"> |
 | 45 | sm | San Marino | <img src="sm.png" width="64" alt="sm"> |
@@ -75,7 +75,7 @@ Total coverage: **218 football teams**.
 | 50 | es | Spain | <img src="es.png" width="64" alt="es"> |
 | 51 | se | Sweden | <img src="se.png" width="64" alt="se"> |
 | 52 | ch | Switzerland | <img src="ch.png" width="64" alt="ch"> |
-| 53 | tr | Türkiye, Turkiye, Turkey | <img src="tr.png" width="64" alt="tr"> |
+| 53 | tr | Türkiye<br>Turkiye<br>Turkey | <img src="tr.png" width="64" alt="tr"> |
 | 54 | ua | Ukraine | <img src="ua.png" width="64" alt="ua"> |
 | 55 | gb-wls | Wales | <img src="gb-wls.png" width="64" alt="gb-wls"> |
 
@@ -90,18 +90,18 @@ Total coverage: **218 football teams**.
 | 5 | bf | Burkina Faso | <img src="bf.png" width="64" alt="bf"> |
 | 6 | bi | Burundi | <img src="bi.png" width="64" alt="bi"> |
 | 7 | cm | Cameroon | <img src="cm.png" width="64" alt="cm"> |
-| 8 | cv | Cape Verde, Cabo Verde, Cape Verde Islands | <img src="cv.png" width="64" alt="cv"> |
+| 8 | cv | Cape Verde<br>Cabo Verde<br>Cape Verde Islands | <img src="cv.png" width="64" alt="cv"> |
 | 9 | cf | Central African Republic | <img src="cf.png" width="64" alt="cf"> |
 | 10 | td | Chad | <img src="td.png" width="64" alt="td"> |
 | 11 | km | Comoros | <img src="km.png" width="64" alt="km"> |
-| 12 | cg | Congo, Congo-Brazzaville, Republic of the Congo | <img src="cg.png" width="64" alt="cg"> |
-| 13 | cd | DR Congo, Congo DR, Democratic Republic of the Congo | <img src="cd.png" width="64" alt="cd"> |
-| 14 | ci | Ivory Coast, Côte d'Ivoire, Cote d'Ivoire | <img src="ci.png" width="64" alt="ci"> |
+| 12 | cg | Congo<br>Congo-Brazzaville<br>Republic of the Congo | <img src="cg.png" width="64" alt="cg"> |
+| 13 | cd | DR Congo<br>Congo DR<br>Democratic Republic of the Congo | <img src="cd.png" width="64" alt="cd"> |
+| 14 | ci | Ivory Coast<br>Côte d'Ivoire<br>Cote d'Ivoire | <img src="ci.png" width="64" alt="ci"> |
 | 15 | dj | Djibouti | <img src="dj.png" width="64" alt="dj"> |
 | 16 | eg | Egypt | <img src="eg.png" width="64" alt="eg"> |
 | 17 | gq | Equatorial Guinea | <img src="gq.png" width="64" alt="gq"> |
 | 18 | er | Eritrea | <img src="er.png" width="64" alt="er"> |
-| 19 | sz | Eswatini, Swaziland | <img src="sz.png" width="64" alt="sz"> |
+| 19 | sz | Eswatini<br>Swaziland | <img src="sz.png" width="64" alt="sz"> |
 | 20 | et | Ethiopia | <img src="et.png" width="64" alt="et"> |
 | 21 | ga | Gabon | <img src="ga.png" width="64" alt="ga"> |
 | 22 | gm | Gambia | <img src="gm.png" width="64" alt="gm"> |
@@ -123,7 +123,7 @@ Total coverage: **218 football teams**.
 | 38 | ne | Niger | <img src="ne.png" width="64" alt="ne"> |
 | 39 | ng | Nigeria | <img src="ng.png" width="64" alt="ng"> |
 | 40 | rw | Rwanda | <img src="rw.png" width="64" alt="rw"> |
-| 41 | st | São Tomé and Príncipe, Sao Tome and Principe | <img src="st.png" width="64" alt="st"> |
+| 41 | st | São Tomé and Príncipe<br>Sao Tome and Principe | <img src="st.png" width="64" alt="st"> |
 | 42 | sn | Senegal | <img src="sn.png" width="64" alt="sn"> |
 | 43 | sc | Seychelles | <img src="sc.png" width="64" alt="sc"> |
 | 44 | sl | Sierra Leone | <img src="sl.png" width="64" alt="sl"> |
@@ -158,8 +158,8 @@ Total coverage: **218 football teams**.
 | 14 | iq | Iraq | <img src="iq.png" width="64" alt="iq"> |
 | 15 | jp | Japan | <img src="jp.png" width="64" alt="jp"> |
 | 16 | jo | Jordan | <img src="jo.png" width="64" alt="jo"> |
-| 17 | kp | North Korea, Korea DPR, DPR Korea | <img src="kp.png" width="64" alt="kp"> |
-| 18 | kr | South Korea, Korea Republic, Republic of Korea | <img src="kr.png" width="64" alt="kr"> |
+| 17 | kp | North Korea<br>Korea DPR<br>DPR Korea | <img src="kp.png" width="64" alt="kp"> |
+| 18 | kr | South Korea<br>Korea Republic<br>Republic of Korea | <img src="kr.png" width="64" alt="kr"> |
 | 19 | kw | Kuwait | <img src="kw.png" width="64" alt="kw"> |
 | 20 | kg | Kyrgyzstan | <img src="kg.png" width="64" alt="kg"> |
 | 21 | la | Laos | <img src="la.png" width="64" alt="la"> |
@@ -180,12 +180,12 @@ Total coverage: **218 football teams**.
 | 36 | sg | Singapore | <img src="sg.png" width="64" alt="sg"> |
 | 37 | lk | Sri Lanka | <img src="lk.png" width="64" alt="lk"> |
 | 38 | sy | Syria | <img src="sy.png" width="64" alt="sy"> |
-| 39 | tw | Chinese Taipei, Taiwan | <img src="tw.png" width="64" alt="tw"> |
+| 39 | tw | Chinese Taipei<br>Taiwan | <img src="tw.png" width="64" alt="tw"> |
 | 40 | tj | Tajikistan | <img src="tj.png" width="64" alt="tj"> |
 | 41 | th | Thailand | <img src="th.png" width="64" alt="th"> |
-| 42 | tl | Timor-Leste, East Timor | <img src="tl.png" width="64" alt="tl"> |
+| 42 | tl | Timor-Leste<br>East Timor | <img src="tl.png" width="64" alt="tl"> |
 | 43 | tm | Turkmenistan | <img src="tm.png" width="64" alt="tm"> |
-| 44 | ae | United Arab Emirates, UAE | <img src="ae.png" width="64" alt="ae"> |
+| 44 | ae | United Arab Emirates<br>UAE | <img src="ae.png" width="64" alt="ae"> |
 | 45 | uz | Uzbekistan | <img src="uz.png" width="64" alt="uz"> |
 | 46 | vn | Vietnam | <img src="vn.png" width="64" alt="vn"> |
 | 47 | ye | Yemen | <img src="ye.png" width="64" alt="ye"> |
@@ -207,7 +207,7 @@ Total coverage: **218 football teams**.
 | 11 | ky | Cayman Islands | <img src="ky.png" width="64" alt="ky"> |
 | 12 | cr | Costa Rica | <img src="cr.png" width="64" alt="cr"> |
 | 13 | cu | Cuba | <img src="cu.png" width="64" alt="cu"> |
-| 14 | cw | Curacao, Curaçao | <img src="cw.png" width="64" alt="cw"> |
+| 14 | cw | Curacao<br>Curaçao | <img src="cw.png" width="64" alt="cw"> |
 | 15 | dm | Dominica | <img src="dm.png" width="64" alt="dm"> |
 | 16 | do | Dominican Republic | <img src="do.png" width="64" alt="do"> |
 | 17 | sv | El Salvador | <img src="sv.png" width="64" alt="sv"> |
@@ -233,8 +233,8 @@ Total coverage: **218 football teams**.
 | 37 | sr | Suriname | <img src="sr.png" width="64" alt="sr"> |
 | 38 | tt | Trinidad and Tobago | <img src="tt.png" width="64" alt="tt"> |
 | 39 | tc | Turks and Caicos Islands | <img src="tc.png" width="64" alt="tc"> |
-| 40 | us | United States, USA | <img src="us.png" width="64" alt="us"> |
-| 41 | vi | United States Virgin Islands, US Virgin Islands | <img src="vi.png" width="64" alt="vi"> |
+| 40 | us | United States<br>USA | <img src="us.png" width="64" alt="us"> |
+| 41 | vi | United States Virgin Islands<br>US Virgin Islands | <img src="vi.png" width="64" alt="vi"> |
 
 ### OFC
 
@@ -248,7 +248,7 @@ Total coverage: **218 football teams**.
 | 6 | pg | Papua New Guinea | <img src="pg.png" width="64" alt="pg"> |
 | 7 | ws | Samoa | <img src="ws.png" width="64" alt="ws"> |
 | 8 | sb | Solomon Islands | <img src="sb.png" width="64" alt="sb"> |
-| 9 | pf | Tahiti, French Polynesia | <img src="pf.png" width="64" alt="pf"> |
+| 9 | pf | Tahiti<br>French Polynesia | <img src="pf.png" width="64" alt="pf"> |
 | 10 | to | Tonga | <img src="to.png" width="64" alt="to"> |
 | 11 | vu | Vanuatu | <img src="vu.png" width="64" alt="vu"> |
 

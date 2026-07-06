@@ -26,10 +26,10 @@ Total coverage: **218 football teams**.
 Order:
 
 ```text
-al      ad      am      at      az      by      be      ba      bg      hr      cy      cz      dk      gb-eng
-ee      fo      fi      fr      ge      de      gi      gr      hu      is      il      it      kz      xk
-lv      li      lt      lu      mt      md      me      nl      mk      gb-nir  no      pl      pt      ie
-ro      ru      sm      gb-sct  rs      sk      si      es      se      ch      tr      ua      gb-wls
+al     ad     am     at     az     by     be     ba     bg     hr     cy     cz     dk     gb-eng
+ee     fo     fi     fr     ge     de     gi     gr     hu     is     il     it     kz     xk
+lv     li     lt     lu     mt     md     me     nl     mk     gb-nir no     pl     pt     ie
+ro     ru     sm     gb-sct rs     sk     si     es     se     ch     tr     ua     gb-wls
 ```
 
 ### CAF
@@ -39,10 +39,10 @@ ro      ru      sm      gb-sct  rs      sk      si      es      se      ch      
 Order:
 
 ```text
-dz      ao      bj      bw      bf      bi      cm      cv      cf      td      km      cg      cd      ci
-dj      eg      gq      er      sz      et      ga      gm      gh      gn      gw      ke      ls      lr
-ly      mg      mw      ml      mr      mu      ma      mz      na      ne      ng      rw      st      sn
-sc      sl      so      za      ss      sd      tz      tg      tn      ug      zm      zw
+dz     ao     bj     bw     bf     bi     cm     cv     cf     td     km     cg     cd     ci
+dj     eg     gq     er     sz     et     ga     gm     gh     gn     gw     ke     ls     lr
+ly     mg     mw     ml     mr     mu     ma     mz     na     ne     ng     rw     st     sn
+sc     sl     so     za     ss     sd     tz     tg     tn     ug     zm     zw
 ```
 
 ### AFC
@@ -52,10 +52,10 @@ sc      sl      so      za      ss      sd      tz      tg      tn      ug      
 Order:
 
 ```text
-af      au      bh      bd      bt      bn      kh      cn      gu      hk      in      id      ir      iq
-jp      jo      kp      kr      kw      kg      la      lb      mo      my      mv      mn      mm      mp
-np      om      pk      ps      ph      qa      sa      sg      lk      sy      tw      tj      th      tl
-tm      ae      uz      vn      ye
+af     au     bh     bd     bt     bn     kh     cn     gu     hk     in     id     ir     iq
+jp     jo     kp     kr     kw     kg     la     lb     mo     my     mv     mn     mm     mp
+np     om     pk     ps     ph     qa     sa     sg     lk     sy     tw     tj     th     tl
+tm     ae     uz     vn     ye
 ```
 
 ### CONCACAF
@@ -65,9 +65,9 @@ tm      ae      uz      vn      ye
 Order:
 
 ```text
-ai      ag      aw      bs      bb      bz      bm      bq      vg      ca      ky      cr      cu      cw
-dm      do      sv      gf      gd      gp      gt      gy      ht      hn      jm      mq      mx      ms
-ni      pa      pr      kn      lc      mf      vc      sx      sr      tt      tc      us      vi
+ai     ag     aw     bs     bb     bz     bm     bq     vg     ca     ky     cr     cu     cw
+dm     do     sv     gf     gd     gp     gt     gy     ht     hn     jm     mq     mx     ms
+ni     pa     pr     kn     lc     mf     vc     sx     sr     tt     tc     us     vi
 ```
 
 ### OFC
@@ -77,7 +77,7 @@ ni      pa      pr      kn      lc      mf      vc      sx      sr      tt      
 Order:
 
 ```text
-as      ck      fj      nc      nz      pg      ws      sb      pf      to      vu
+as     ck     fj     nc     nz     pg     ws     sb     pf     to     vu
 ```
 
 ### CONMEBOL
@@ -87,7 +87,7 @@ as      ck      fj      nc      nz      pg      ws      sb      pf      to      
 Order:
 
 ```text
-ar      bo      br      cl      co      ec      py      pe      uy      ve
+ar     bo     br     cl     co     ec     py     pe     uy     ve
 ```
 
 ## Usage

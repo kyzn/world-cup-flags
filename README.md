@@ -21,100 +21,251 @@ Total coverage: **218 football teams**.
 
 ### UEFA
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `al` | `ad` | `am` | `at` | `az` | `by` | `be` | `ba` | `bg` | `hr` | `cy` | `cz` | `dk` | `gb-eng` |
-| <img src="al.png" width="32" alt="al"> | <img src="ad.png" width="32" alt="ad"> | <img src="am.png" width="32" alt="am"> | <img src="at.png" width="32" alt="at"> | <img src="az.png" width="32" alt="az"> | <img src="by.png" width="32" alt="by"> | <img src="be.png" width="32" alt="be"> | <img src="ba.png" width="32" alt="ba"> | <img src="bg.png" width="32" alt="bg"> | <img src="hr.png" width="32" alt="hr"> | <img src="cy.png" width="32" alt="cy"> | <img src="cz.png" width="32" alt="cz"> | <img src="dk.png" width="32" alt="dk"> | <img src="gb-eng.png" width="32" alt="gb-eng"> |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `ee` | `fo` | `fi` | `fr` | `ge` | `de` | `gi` | `gr` | `hu` | `is` | `il` | `it` | `kz` | `xk` |
-| <img src="ee.png" width="32" alt="ee"> | <img src="fo.png" width="32" alt="fo"> | <img src="fi.png" width="32" alt="fi"> | <img src="fr.png" width="32" alt="fr"> | <img src="ge.png" width="32" alt="ge"> | <img src="de.png" width="32" alt="de"> | <img src="gi.png" width="32" alt="gi"> | <img src="gr.png" width="32" alt="gr"> | <img src="hu.png" width="32" alt="hu"> | <img src="is.png" width="32" alt="is"> | <img src="il.png" width="32" alt="il"> | <img src="it.png" width="32" alt="it"> | <img src="kz.png" width="32" alt="kz"> | <img src="xk.png" width="32" alt="xk"> |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `lv` | `li` | `lt` | `lu` | `mt` | `md` | `me` | `nl` | `mk` | `gb-nir` | `no` | `pl` | `pt` | `ie` |
-| <img src="lv.png" width="32" alt="lv"> | <img src="li.png" width="32" alt="li"> | <img src="lt.png" width="32" alt="lt"> | <img src="lu.png" width="32" alt="lu"> | <img src="mt.png" width="32" alt="mt"> | <img src="md.png" width="32" alt="md"> | <img src="me.png" width="32" alt="me"> | <img src="nl.png" width="32" alt="nl"> | <img src="mk.png" width="32" alt="mk"> | <img src="gb-nir.png" width="32" alt="gb-nir"> | <img src="no.png" width="32" alt="no"> | <img src="pl.png" width="32" alt="pl"> | <img src="pt.png" width="32" alt="pt"> | <img src="ie.png" width="32" alt="ie"> |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `ro` | `ru` | `sm` | `gb-sct` | `rs` | `sk` | `si` | `es` | `se` | `ch` | `tr` | `ua` | `gb-wls` |
-| <img src="ro.png" width="32" alt="ro"> | <img src="ru.png" width="32" alt="ru"> | <img src="sm.png" width="32" alt="sm"> | <img src="gb-sct.png" width="32" alt="gb-sct"> | <img src="rs.png" width="32" alt="rs"> | <img src="sk.png" width="32" alt="sk"> | <img src="si.png" width="32" alt="si"> | <img src="es.png" width="32" alt="es"> | <img src="se.png" width="32" alt="se"> | <img src="ch.png" width="32" alt="ch"> | <img src="tr.png" width="32" alt="tr"> | <img src="ua.png" width="32" alt="ua"> | <img src="gb-wls.png" width="32" alt="gb-wls"> |
+| # | Code | Flag |
+|---:|---|---|
+| 1 | al | <img src="al.png" width="32" alt="al"> |
+| 2 | ad | <img src="ad.png" width="32" alt="ad"> |
+| 3 | am | <img src="am.png" width="32" alt="am"> |
+| 4 | at | <img src="at.png" width="32" alt="at"> |
+| 5 | az | <img src="az.png" width="32" alt="az"> |
+| 6 | by | <img src="by.png" width="32" alt="by"> |
+| 7 | be | <img src="be.png" width="32" alt="be"> |
+| 8 | ba | <img src="ba.png" width="32" alt="ba"> |
+| 9 | bg | <img src="bg.png" width="32" alt="bg"> |
+| 10 | hr | <img src="hr.png" width="32" alt="hr"> |
+| 11 | cy | <img src="cy.png" width="32" alt="cy"> |
+| 12 | cz | <img src="cz.png" width="32" alt="cz"> |
+| 13 | dk | <img src="dk.png" width="32" alt="dk"> |
+| 14 | gb-eng | <img src="gb-eng.png" width="32" alt="gb-eng"> |
+| 15 | ee | <img src="ee.png" width="32" alt="ee"> |
+| 16 | fo | <img src="fo.png" width="32" alt="fo"> |
+| 17 | fi | <img src="fi.png" width="32" alt="fi"> |
+| 18 | fr | <img src="fr.png" width="32" alt="fr"> |
+| 19 | ge | <img src="ge.png" width="32" alt="ge"> |
+| 20 | de | <img src="de.png" width="32" alt="de"> |
+| 21 | gi | <img src="gi.png" width="32" alt="gi"> |
+| 22 | gr | <img src="gr.png" width="32" alt="gr"> |
+| 23 | hu | <img src="hu.png" width="32" alt="hu"> |
+| 24 | is | <img src="is.png" width="32" alt="is"> |
+| 25 | il | <img src="il.png" width="32" alt="il"> |
+| 26 | it | <img src="it.png" width="32" alt="it"> |
+| 27 | kz | <img src="kz.png" width="32" alt="kz"> |
+| 28 | xk | <img src="xk.png" width="32" alt="xk"> |
+| 29 | lv | <img src="lv.png" width="32" alt="lv"> |
+| 30 | li | <img src="li.png" width="32" alt="li"> |
+| 31 | lt | <img src="lt.png" width="32" alt="lt"> |
+| 32 | lu | <img src="lu.png" width="32" alt="lu"> |
+| 33 | mt | <img src="mt.png" width="32" alt="mt"> |
+| 34 | md | <img src="md.png" width="32" alt="md"> |
+| 35 | me | <img src="me.png" width="32" alt="me"> |
+| 36 | nl | <img src="nl.png" width="32" alt="nl"> |
+| 37 | mk | <img src="mk.png" width="32" alt="mk"> |
+| 38 | gb-nir | <img src="gb-nir.png" width="32" alt="gb-nir"> |
+| 39 | no | <img src="no.png" width="32" alt="no"> |
+| 40 | pl | <img src="pl.png" width="32" alt="pl"> |
+| 41 | pt | <img src="pt.png" width="32" alt="pt"> |
+| 42 | ie | <img src="ie.png" width="32" alt="ie"> |
+| 43 | ro | <img src="ro.png" width="32" alt="ro"> |
+| 44 | ru | <img src="ru.png" width="32" alt="ru"> |
+| 45 | sm | <img src="sm.png" width="32" alt="sm"> |
+| 46 | gb-sct | <img src="gb-sct.png" width="32" alt="gb-sct"> |
+| 47 | rs | <img src="rs.png" width="32" alt="rs"> |
+| 48 | sk | <img src="sk.png" width="32" alt="sk"> |
+| 49 | si | <img src="si.png" width="32" alt="si"> |
+| 50 | es | <img src="es.png" width="32" alt="es"> |
+| 51 | se | <img src="se.png" width="32" alt="se"> |
+| 52 | ch | <img src="ch.png" width="32" alt="ch"> |
+| 53 | tr | <img src="tr.png" width="32" alt="tr"> |
+| 54 | ua | <img src="ua.png" width="32" alt="ua"> |
+| 55 | gb-wls | <img src="gb-wls.png" width="32" alt="gb-wls"> |
 
 ### CAF
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `dz` | `ao` | `bj` | `bw` | `bf` | `bi` | `cm` | `cv` | `cf` | `td` | `km` | `cg` | `cd` | `ci` |
-| <img src="dz.png" width="32" alt="dz"> | <img src="ao.png" width="32" alt="ao"> | <img src="bj.png" width="32" alt="bj"> | <img src="bw.png" width="32" alt="bw"> | <img src="bf.png" width="32" alt="bf"> | <img src="bi.png" width="32" alt="bi"> | <img src="cm.png" width="32" alt="cm"> | <img src="cv.png" width="32" alt="cv"> | <img src="cf.png" width="32" alt="cf"> | <img src="td.png" width="32" alt="td"> | <img src="km.png" width="32" alt="km"> | <img src="cg.png" width="32" alt="cg"> | <img src="cd.png" width="32" alt="cd"> | <img src="ci.png" width="32" alt="ci"> |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `dj` | `eg` | `gq` | `er` | `sz` | `et` | `ga` | `gm` | `gh` | `gn` | `gw` | `ke` | `ls` | `lr` |
-| <img src="dj.png" width="32" alt="dj"> | <img src="eg.png" width="32" alt="eg"> | <img src="gq.png" width="32" alt="gq"> | <img src="er.png" width="32" alt="er"> | <img src="sz.png" width="32" alt="sz"> | <img src="et.png" width="32" alt="et"> | <img src="ga.png" width="32" alt="ga"> | <img src="gm.png" width="32" alt="gm"> | <img src="gh.png" width="32" alt="gh"> | <img src="gn.png" width="32" alt="gn"> | <img src="gw.png" width="32" alt="gw"> | <img src="ke.png" width="32" alt="ke"> | <img src="ls.png" width="32" alt="ls"> | <img src="lr.png" width="32" alt="lr"> |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `ly` | `mg` | `mw` | `ml` | `mr` | `mu` | `ma` | `mz` | `na` | `ne` | `ng` | `rw` | `st` | `sn` |
-| <img src="ly.png" width="32" alt="ly"> | <img src="mg.png" width="32" alt="mg"> | <img src="mw.png" width="32" alt="mw"> | <img src="ml.png" width="32" alt="ml"> | <img src="mr.png" width="32" alt="mr"> | <img src="mu.png" width="32" alt="mu"> | <img src="ma.png" width="32" alt="ma"> | <img src="mz.png" width="32" alt="mz"> | <img src="na.png" width="32" alt="na"> | <img src="ne.png" width="32" alt="ne"> | <img src="ng.png" width="32" alt="ng"> | <img src="rw.png" width="32" alt="rw"> | <img src="st.png" width="32" alt="st"> | <img src="sn.png" width="32" alt="sn"> |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `sc` | `sl` | `so` | `za` | `ss` | `sd` | `tz` | `tg` | `tn` | `ug` | `zm` | `zw` |
-| <img src="sc.png" width="32" alt="sc"> | <img src="sl.png" width="32" alt="sl"> | <img src="so.png" width="32" alt="so"> | <img src="za.png" width="32" alt="za"> | <img src="ss.png" width="32" alt="ss"> | <img src="sd.png" width="32" alt="sd"> | <img src="tz.png" width="32" alt="tz"> | <img src="tg.png" width="32" alt="tg"> | <img src="tn.png" width="32" alt="tn"> | <img src="ug.png" width="32" alt="ug"> | <img src="zm.png" width="32" alt="zm"> | <img src="zw.png" width="32" alt="zw"> |
+| # | Code | Flag |
+|---:|---|---|
+| 1 | dz | <img src="dz.png" width="32" alt="dz"> |
+| 2 | ao | <img src="ao.png" width="32" alt="ao"> |
+| 3 | bj | <img src="bj.png" width="32" alt="bj"> |
+| 4 | bw | <img src="bw.png" width="32" alt="bw"> |
+| 5 | bf | <img src="bf.png" width="32" alt="bf"> |
+| 6 | bi | <img src="bi.png" width="32" alt="bi"> |
+| 7 | cm | <img src="cm.png" width="32" alt="cm"> |
+| 8 | cv | <img src="cv.png" width="32" alt="cv"> |
+| 9 | cf | <img src="cf.png" width="32" alt="cf"> |
+| 10 | td | <img src="td.png" width="32" alt="td"> |
+| 11 | km | <img src="km.png" width="32" alt="km"> |
+| 12 | cg | <img src="cg.png" width="32" alt="cg"> |
+| 13 | cd | <img src="cd.png" width="32" alt="cd"> |
+| 14 | ci | <img src="ci.png" width="32" alt="ci"> |
+| 15 | dj | <img src="dj.png" width="32" alt="dj"> |
+| 16 | eg | <img src="eg.png" width="32" alt="eg"> |
+| 17 | gq | <img src="gq.png" width="32" alt="gq"> |
+| 18 | er | <img src="er.png" width="32" alt="er"> |
+| 19 | sz | <img src="sz.png" width="32" alt="sz"> |
+| 20 | et | <img src="et.png" width="32" alt="et"> |
+| 21 | ga | <img src="ga.png" width="32" alt="ga"> |
+| 22 | gm | <img src="gm.png" width="32" alt="gm"> |
+| 23 | gh | <img src="gh.png" width="32" alt="gh"> |
+| 24 | gn | <img src="gn.png" width="32" alt="gn"> |
+| 25 | gw | <img src="gw.png" width="32" alt="gw"> |
+| 26 | ke | <img src="ke.png" width="32" alt="ke"> |
+| 27 | ls | <img src="ls.png" width="32" alt="ls"> |
+| 28 | lr | <img src="lr.png" width="32" alt="lr"> |
+| 29 | ly | <img src="ly.png" width="32" alt="ly"> |
+| 30 | mg | <img src="mg.png" width="32" alt="mg"> |
+| 31 | mw | <img src="mw.png" width="32" alt="mw"> |
+| 32 | ml | <img src="ml.png" width="32" alt="ml"> |
+| 33 | mr | <img src="mr.png" width="32" alt="mr"> |
+| 34 | mu | <img src="mu.png" width="32" alt="mu"> |
+| 35 | ma | <img src="ma.png" width="32" alt="ma"> |
+| 36 | mz | <img src="mz.png" width="32" alt="mz"> |
+| 37 | na | <img src="na.png" width="32" alt="na"> |
+| 38 | ne | <img src="ne.png" width="32" alt="ne"> |
+| 39 | ng | <img src="ng.png" width="32" alt="ng"> |
+| 40 | rw | <img src="rw.png" width="32" alt="rw"> |
+| 41 | st | <img src="st.png" width="32" alt="st"> |
+| 42 | sn | <img src="sn.png" width="32" alt="sn"> |
+| 43 | sc | <img src="sc.png" width="32" alt="sc"> |
+| 44 | sl | <img src="sl.png" width="32" alt="sl"> |
+| 45 | so | <img src="so.png" width="32" alt="so"> |
+| 46 | za | <img src="za.png" width="32" alt="za"> |
+| 47 | ss | <img src="ss.png" width="32" alt="ss"> |
+| 48 | sd | <img src="sd.png" width="32" alt="sd"> |
+| 49 | tz | <img src="tz.png" width="32" alt="tz"> |
+| 50 | tg | <img src="tg.png" width="32" alt="tg"> |
+| 51 | tn | <img src="tn.png" width="32" alt="tn"> |
+| 52 | ug | <img src="ug.png" width="32" alt="ug"> |
+| 53 | zm | <img src="zm.png" width="32" alt="zm"> |
+| 54 | zw | <img src="zw.png" width="32" alt="zw"> |
 
 ### AFC
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `af` | `au` | `bh` | `bd` | `bt` | `bn` | `kh` | `cn` | `gu` | `hk` | `in` | `id` | `ir` | `iq` |
-| <img src="af.png" width="32" alt="af"> | <img src="au.png" width="32" alt="au"> | <img src="bh.png" width="32" alt="bh"> | <img src="bd.png" width="32" alt="bd"> | <img src="bt.png" width="32" alt="bt"> | <img src="bn.png" width="32" alt="bn"> | <img src="kh.png" width="32" alt="kh"> | <img src="cn.png" width="32" alt="cn"> | <img src="gu.png" width="32" alt="gu"> | <img src="hk.png" width="32" alt="hk"> | <img src="in.png" width="32" alt="in"> | <img src="id.png" width="32" alt="id"> | <img src="ir.png" width="32" alt="ir"> | <img src="iq.png" width="32" alt="iq"> |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `jp` | `jo` | `kp` | `kr` | `kw` | `kg` | `la` | `lb` | `mo` | `my` | `mv` | `mn` | `mm` | `mp` |
-| <img src="jp.png" width="32" alt="jp"> | <img src="jo.png" width="32" alt="jo"> | <img src="kp.png" width="32" alt="kp"> | <img src="kr.png" width="32" alt="kr"> | <img src="kw.png" width="32" alt="kw"> | <img src="kg.png" width="32" alt="kg"> | <img src="la.png" width="32" alt="la"> | <img src="lb.png" width="32" alt="lb"> | <img src="mo.png" width="32" alt="mo"> | <img src="my.png" width="32" alt="my"> | <img src="mv.png" width="32" alt="mv"> | <img src="mn.png" width="32" alt="mn"> | <img src="mm.png" width="32" alt="mm"> | <img src="mp.png" width="32" alt="mp"> |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `np` | `om` | `pk` | `ps` | `ph` | `qa` | `sa` | `sg` | `lk` | `sy` | `tw` | `tj` | `th` | `tl` |
-| <img src="np.png" width="32" alt="np"> | <img src="om.png" width="32" alt="om"> | <img src="pk.png" width="32" alt="pk"> | <img src="ps.png" width="32" alt="ps"> | <img src="ph.png" width="32" alt="ph"> | <img src="qa.png" width="32" alt="qa"> | <img src="sa.png" width="32" alt="sa"> | <img src="sg.png" width="32" alt="sg"> | <img src="lk.png" width="32" alt="lk"> | <img src="sy.png" width="32" alt="sy"> | <img src="tw.png" width="32" alt="tw"> | <img src="tj.png" width="32" alt="tj"> | <img src="th.png" width="32" alt="th"> | <img src="tl.png" width="32" alt="tl"> |
-
-| 1 | 2 | 3 | 4 | 5 |
-| --- | --- | --- | --- | --- |
-| `tm` | `ae` | `uz` | `vn` | `ye` |
-| <img src="tm.png" width="32" alt="tm"> | <img src="ae.png" width="32" alt="ae"> | <img src="uz.png" width="32" alt="uz"> | <img src="vn.png" width="32" alt="vn"> | <img src="ye.png" width="32" alt="ye"> |
+| # | Code | Flag |
+|---:|---|---|
+| 1 | af | <img src="af.png" width="32" alt="af"> |
+| 2 | au | <img src="au.png" width="32" alt="au"> |
+| 3 | bh | <img src="bh.png" width="32" alt="bh"> |
+| 4 | bd | <img src="bd.png" width="32" alt="bd"> |
+| 5 | bt | <img src="bt.png" width="32" alt="bt"> |
+| 6 | bn | <img src="bn.png" width="32" alt="bn"> |
+| 7 | kh | <img src="kh.png" width="32" alt="kh"> |
+| 8 | cn | <img src="cn.png" width="32" alt="cn"> |
+| 9 | gu | <img src="gu.png" width="32" alt="gu"> |
+| 10 | hk | <img src="hk.png" width="32" alt="hk"> |
+| 11 | in | <img src="in.png" width="32" alt="in"> |
+| 12 | id | <img src="id.png" width="32" alt="id"> |
+| 13 | ir | <img src="ir.png" width="32" alt="ir"> |
+| 14 | iq | <img src="iq.png" width="32" alt="iq"> |
+| 15 | jp | <img src="jp.png" width="32" alt="jp"> |
+| 16 | jo | <img src="jo.png" width="32" alt="jo"> |
+| 17 | kp | <img src="kp.png" width="32" alt="kp"> |
+| 18 | kr | <img src="kr.png" width="32" alt="kr"> |
+| 19 | kw | <img src="kw.png" width="32" alt="kw"> |
+| 20 | kg | <img src="kg.png" width="32" alt="kg"> |
+| 21 | la | <img src="la.png" width="32" alt="la"> |
+| 22 | lb | <img src="lb.png" width="32" alt="lb"> |
+| 23 | mo | <img src="mo.png" width="32" alt="mo"> |
+| 24 | my | <img src="my.png" width="32" alt="my"> |
+| 25 | mv | <img src="mv.png" width="32" alt="mv"> |
+| 26 | mn | <img src="mn.png" width="32" alt="mn"> |
+| 27 | mm | <img src="mm.png" width="32" alt="mm"> |
+| 28 | mp | <img src="mp.png" width="32" alt="mp"> |
+| 29 | np | <img src="np.png" width="32" alt="np"> |
+| 30 | om | <img src="om.png" width="32" alt="om"> |
+| 31 | pk | <img src="pk.png" width="32" alt="pk"> |
+| 32 | ps | <img src="ps.png" width="32" alt="ps"> |
+| 33 | ph | <img src="ph.png" width="32" alt="ph"> |
+| 34 | qa | <img src="qa.png" width="32" alt="qa"> |
+| 35 | sa | <img src="sa.png" width="32" alt="sa"> |
+| 36 | sg | <img src="sg.png" width="32" alt="sg"> |
+| 37 | lk | <img src="lk.png" width="32" alt="lk"> |
+| 38 | sy | <img src="sy.png" width="32" alt="sy"> |
+| 39 | tw | <img src="tw.png" width="32" alt="tw"> |
+| 40 | tj | <img src="tj.png" width="32" alt="tj"> |
+| 41 | th | <img src="th.png" width="32" alt="th"> |
+| 42 | tl | <img src="tl.png" width="32" alt="tl"> |
+| 43 | tm | <img src="tm.png" width="32" alt="tm"> |
+| 44 | ae | <img src="ae.png" width="32" alt="ae"> |
+| 45 | uz | <img src="uz.png" width="32" alt="uz"> |
+| 46 | vn | <img src="vn.png" width="32" alt="vn"> |
+| 47 | ye | <img src="ye.png" width="32" alt="ye"> |
 
 ### CONCACAF
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `ai` | `ag` | `aw` | `bs` | `bb` | `bz` | `bm` | `bq` | `vg` | `ca` | `ky` | `cr` | `cu` | `cw` |
-| <img src="ai.png" width="32" alt="ai"> | <img src="ag.png" width="32" alt="ag"> | <img src="aw.png" width="32" alt="aw"> | <img src="bs.png" width="32" alt="bs"> | <img src="bb.png" width="32" alt="bb"> | <img src="bz.png" width="32" alt="bz"> | <img src="bm.png" width="32" alt="bm"> | <img src="bq.png" width="32" alt="bq"> | <img src="vg.png" width="32" alt="vg"> | <img src="ca.png" width="32" alt="ca"> | <img src="ky.png" width="32" alt="ky"> | <img src="cr.png" width="32" alt="cr"> | <img src="cu.png" width="32" alt="cu"> | <img src="cw.png" width="32" alt="cw"> |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `dm` | `do` | `sv` | `gf` | `gd` | `gp` | `gt` | `gy` | `ht` | `hn` | `jm` | `mq` | `mx` | `ms` |
-| <img src="dm.png" width="32" alt="dm"> | <img src="do.png" width="32" alt="do"> | <img src="sv.png" width="32" alt="sv"> | <img src="gf.png" width="32" alt="gf"> | <img src="gd.png" width="32" alt="gd"> | <img src="gp.png" width="32" alt="gp"> | <img src="gt.png" width="32" alt="gt"> | <img src="gy.png" width="32" alt="gy"> | <img src="ht.png" width="32" alt="ht"> | <img src="hn.png" width="32" alt="hn"> | <img src="jm.png" width="32" alt="jm"> | <img src="mq.png" width="32" alt="mq"> | <img src="mx.png" width="32" alt="mx"> | <img src="ms.png" width="32" alt="ms"> |
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `ni` | `pa` | `pr` | `kn` | `lc` | `mf` | `vc` | `sx` | `sr` | `tt` | `tc` | `us` | `vi` |
-| <img src="ni.png" width="32" alt="ni"> | <img src="pa.png" width="32" alt="pa"> | <img src="pr.png" width="32" alt="pr"> | <img src="kn.png" width="32" alt="kn"> | <img src="lc.png" width="32" alt="lc"> | <img src="mf.png" width="32" alt="mf"> | <img src="vc.png" width="32" alt="vc"> | <img src="sx.png" width="32" alt="sx"> | <img src="sr.png" width="32" alt="sr"> | <img src="tt.png" width="32" alt="tt"> | <img src="tc.png" width="32" alt="tc"> | <img src="us.png" width="32" alt="us"> | <img src="vi.png" width="32" alt="vi"> |
+| # | Code | Flag |
+|---:|---|---|
+| 1 | ai | <img src="ai.png" width="32" alt="ai"> |
+| 2 | ag | <img src="ag.png" width="32" alt="ag"> |
+| 3 | aw | <img src="aw.png" width="32" alt="aw"> |
+| 4 | bs | <img src="bs.png" width="32" alt="bs"> |
+| 5 | bb | <img src="bb.png" width="32" alt="bb"> |
+| 6 | bz | <img src="bz.png" width="32" alt="bz"> |
+| 7 | bm | <img src="bm.png" width="32" alt="bm"> |
+| 8 | bq | <img src="bq.png" width="32" alt="bq"> |
+| 9 | vg | <img src="vg.png" width="32" alt="vg"> |
+| 10 | ca | <img src="ca.png" width="32" alt="ca"> |
+| 11 | ky | <img src="ky.png" width="32" alt="ky"> |
+| 12 | cr | <img src="cr.png" width="32" alt="cr"> |
+| 13 | cu | <img src="cu.png" width="32" alt="cu"> |
+| 14 | cw | <img src="cw.png" width="32" alt="cw"> |
+| 15 | dm | <img src="dm.png" width="32" alt="dm"> |
+| 16 | do | <img src="do.png" width="32" alt="do"> |
+| 17 | sv | <img src="sv.png" width="32" alt="sv"> |
+| 18 | gf | <img src="gf.png" width="32" alt="gf"> |
+| 19 | gd | <img src="gd.png" width="32" alt="gd"> |
+| 20 | gp | <img src="gp.png" width="32" alt="gp"> |
+| 21 | gt | <img src="gt.png" width="32" alt="gt"> |
+| 22 | gy | <img src="gy.png" width="32" alt="gy"> |
+| 23 | ht | <img src="ht.png" width="32" alt="ht"> |
+| 24 | hn | <img src="hn.png" width="32" alt="hn"> |
+| 25 | jm | <img src="jm.png" width="32" alt="jm"> |
+| 26 | mq | <img src="mq.png" width="32" alt="mq"> |
+| 27 | mx | <img src="mx.png" width="32" alt="mx"> |
+| 28 | ms | <img src="ms.png" width="32" alt="ms"> |
+| 29 | ni | <img src="ni.png" width="32" alt="ni"> |
+| 30 | pa | <img src="pa.png" width="32" alt="pa"> |
+| 31 | pr | <img src="pr.png" width="32" alt="pr"> |
+| 32 | kn | <img src="kn.png" width="32" alt="kn"> |
+| 33 | lc | <img src="lc.png" width="32" alt="lc"> |
+| 34 | mf | <img src="mf.png" width="32" alt="mf"> |
+| 35 | vc | <img src="vc.png" width="32" alt="vc"> |
+| 36 | sx | <img src="sx.png" width="32" alt="sx"> |
+| 37 | sr | <img src="sr.png" width="32" alt="sr"> |
+| 38 | tt | <img src="tt.png" width="32" alt="tt"> |
+| 39 | tc | <img src="tc.png" width="32" alt="tc"> |
+| 40 | us | <img src="us.png" width="32" alt="us"> |
+| 41 | vi | <img src="vi.png" width="32" alt="vi"> |
 
 ### OFC
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `as` | `ck` | `fj` | `nc` | `nz` | `pg` | `ws` | `sb` | `pf` | `to` | `vu` |
-| <img src="as.png" width="32" alt="as"> | <img src="ck.png" width="32" alt="ck"> | <img src="fj.png" width="32" alt="fj"> | <img src="nc.png" width="32" alt="nc"> | <img src="nz.png" width="32" alt="nz"> | <img src="pg.png" width="32" alt="pg"> | <img src="ws.png" width="32" alt="ws"> | <img src="sb.png" width="32" alt="sb"> | <img src="pf.png" width="32" alt="pf"> | <img src="to.png" width="32" alt="to"> | <img src="vu.png" width="32" alt="vu"> |
+| # | Code | Flag |
+|---:|---|---|
+| 1 | as | <img src="as.png" width="32" alt="as"> |
+| 2 | ck | <img src="ck.png" width="32" alt="ck"> |
+| 3 | fj | <img src="fj.png" width="32" alt="fj"> |
+| 4 | nc | <img src="nc.png" width="32" alt="nc"> |
+| 5 | nz | <img src="nz.png" width="32" alt="nz"> |
+| 6 | pg | <img src="pg.png" width="32" alt="pg"> |
+| 7 | ws | <img src="ws.png" width="32" alt="ws"> |
+| 8 | sb | <img src="sb.png" width="32" alt="sb"> |
+| 9 | pf | <img src="pf.png" width="32" alt="pf"> |
+| 10 | to | <img src="to.png" width="32" alt="to"> |
+| 11 | vu | <img src="vu.png" width="32" alt="vu"> |
 
 ### CONMEBOL
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `ar` | `bo` | `br` | `cl` | `co` | `ec` | `py` | `pe` | `uy` | `ve` |
-| <img src="ar.png" width="32" alt="ar"> | <img src="bo.png" width="32" alt="bo"> | <img src="br.png" width="32" alt="br"> | <img src="cl.png" width="32" alt="cl"> | <img src="co.png" width="32" alt="co"> | <img src="ec.png" width="32" alt="ec"> | <img src="py.png" width="32" alt="py"> | <img src="pe.png" width="32" alt="pe"> | <img src="uy.png" width="32" alt="uy"> | <img src="ve.png" width="32" alt="ve"> |
+| # | Code | Flag |
+|---:|---|---|
+| 1 | ar | <img src="ar.png" width="32" alt="ar"> |
+| 2 | bo | <img src="bo.png" width="32" alt="bo"> |
+| 3 | br | <img src="br.png" width="32" alt="br"> |
+| 4 | cl | <img src="cl.png" width="32" alt="cl"> |
+| 5 | co | <img src="co.png" width="32" alt="co"> |
+| 6 | ec | <img src="ec.png" width="32" alt="ec"> |
+| 7 | py | <img src="py.png" width="32" alt="py"> |
+| 8 | pe | <img src="pe.png" width="32" alt="pe"> |
+| 9 | uy | <img src="uy.png" width="32" alt="uy"> |
+| 10 | ve | <img src="ve.png" width="32" alt="ve"> |
 
 ## Usage
 
